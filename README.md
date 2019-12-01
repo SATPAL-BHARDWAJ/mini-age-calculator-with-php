@@ -8,4 +8,5 @@ This is a mini php project for beginners.
     - Jquery
     - Bootstrap-DatePicker
  
-## final output will be
+## Final output will be
+![Final Screen](./age-calculator.png)
