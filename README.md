@@ -1,2 +1,11 @@
-# mini-age-calculator-with-php
-This is mini php project for beginners. I have used Bootstrap and Bootstrap datepicker and jQuery with seprate layout for header and footer.
+# Mini age calculator with php
+This is a mini php project for beginners.
+
+## What we are going to use?
+
+    - PHP OOPs
+    - Bootstrap
+    - Jquery
+    - Bootstrap-DatePicker
+ 
+## final output will be
